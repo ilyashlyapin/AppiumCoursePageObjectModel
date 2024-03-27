@@ -1,0 +1,12 @@
+2024-03-27 08:52:15,399 - BasePage.py:[24] - [INFO] - Clicking on an Element hotels_XPATH
+2024-03-27 08:52:15,585 - BasePage.py:[24] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2024-03-27 08:52:17,572 - BasePage.py:[42] - [INFO] - Typing in an Element searchtext_ID entered the value as: Delhi
+2024-03-27 09:19:33,685 - BasePage.py:[24] - [INFO] - Clicking on an Element hotels_XPATH
+2024-03-27 09:19:33,816 - BasePage.py:[24] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2024-03-27 09:19:35,602 - BasePage.py:[42] - [INFO] - Typing in an Element searchtext_ID entered the value as: Delhi
+2024-03-27 09:19:58,789 - BasePage.py:[24] - [INFO] - Clicking on an Element hotels_XPATH
+2024-03-27 09:20:00,504 - BasePage.py:[24] - [INFO] - Clicking on an Element destination_ACCESSIBILITYID
+2024-03-27 09:20:01,227 - BasePage.py:[42] - [INFO] - Typing in an Element searchtext_ID entered the value as: Dubai
+2024-03-27 09:20:03,543 - BasePage.py:[33] - [INFO] - Clicking on an Element selectlocation_XPATHwith index : 1
+2024-03-27 09:20:03,813 - BasePage.py:[24] - [INFO] - Clicking on an Element selectdates_ID
+2024-03-27 09:20:04,658 - BasePage.py:[24] - [INFO] - Clicking on an Element searchbtn_XPATH
